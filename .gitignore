@@ -1,0 +1,12 @@
+# OS and temporary swap/backup files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Secret environment files
+.env
+*.env
+
+# Plugin state and cache (if generated locally)
+.luarc.json
